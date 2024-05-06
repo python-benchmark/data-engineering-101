@@ -8,3 +8,4 @@ pyyaml>=3.10
 scikit_learn>=0.14.1
 scipy>=0.13.3
 mpld3
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
