@@ -109,3 +109,4 @@ Werkzeug==0.9.6
 xlrd==0.9.3
 XlsxWriter==0.5.7
 xlwt==0.7.5
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
