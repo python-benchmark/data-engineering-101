@@ -62,7 +62,7 @@ patsy==0.3.0
 pep8==1.5.7
 PIL==1.1.7
 ply==3.4
-protobuf==2.6.1
+protobuf==4.25.8
 psutil==2.1.1
 psycopg2==2.5.1
 py==1.4.25
