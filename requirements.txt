@@ -8,7 +8,7 @@ binstar==0.7.1
 bitarray==0.8.1
 blaze==0.6.3
 blz==0.6.2
-bokeh==0.6.1
+bokeh==3.8.2
 boto==2.32.1
 casuarius==1.1
 cdecimal==2.3
@@ -105,7 +105,7 @@ traits==4.4.0
 traitsui==4.4.0
 ujson==1.33
 unicodecsv==0.9.4
-Werkzeug==0.9.6
+Werkzeug==3.1.5
 xlrd==0.9.3
 XlsxWriter==0.5.7
 xlwt==0.7.5
